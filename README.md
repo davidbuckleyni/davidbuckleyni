@@ -1,4 +1,4 @@
-I am David a software developer professiona currently working in the health sector as part of local goverment, but I like to tinker in all things moderen.
+I am David a software developer professional currently working in the health sector as part of local goverment, but I like to tinker in all things moderen.
 
 I manly working on my long term project Cella, is a warehouse managment system built uppon knowledge I have learnt over 20 years of software development exp.
 
